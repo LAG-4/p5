@@ -40,7 +40,7 @@ const peopleScrollSpeedFactor = 0.12;   // Relative to gameSpeed
 // --- Image Loading ---
 let modiImage; // Variable to hold the loaded image
 // *** IMPORTANT: PASTE A VALID IMAGE URL HERE ***
-let modiImageURL = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheleaderspage.com%2Fnarendra-modi%2F&psig=AOvVaw3srFO7w6sAdmPckEBwAcTR&ust=1743106494864000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICn8-3HqIwDFQAAAAAdAAAAABAE';
+let modiImageURL = 'URL';
 
 
 // --- Color Palettes ---
